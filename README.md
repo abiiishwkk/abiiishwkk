@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Abi
 
-<!--
-**abiiishwkk/abiiishwkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student on a mission to become globally employable.
 
-Here are some ideas to get you started:
+Currently Learning:
+- Python
+- SQL
+- Power BI
+- Excel & PPT
+- French 🇫🇷 & German 🇩🇪
+- Project management skills (CAPM, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Plan:
+- Build projects
+- Showcase what I learn
+
+Repositories:
+Check my pinned repos below to see what I'm working on!
+
+yay!
