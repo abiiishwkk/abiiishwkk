@@ -7,7 +7,6 @@ Currently Learning:
 - SQL
 - Power BI
 - Excel & PPT
-- French 🇫🇷 & German 🇩🇪
 - Project management skills (CAPM, etc.)
 
 My Plan:
